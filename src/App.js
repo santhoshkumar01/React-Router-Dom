@@ -4,7 +4,6 @@ import Contact from './Pages/Contact'
 import About from './Pages/About'
 import NotFound from './Pages/NotFound'
 import Navbar from './Components/Navbar'
-import BookLayout from './BookLayout'
 import BookRoutes from './BookRoutes'
 
 function App() {
