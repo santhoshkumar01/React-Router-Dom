@@ -3,7 +3,7 @@ import React from 'react'
 function NewBook() {
   return (
     <h1>
-      NewBook
+      New Book
     </h1>
   )
 }
